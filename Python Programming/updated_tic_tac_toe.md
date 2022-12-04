@@ -1,10 +1,4 @@
-'''# This is very good overall. There is one major bug to fix:
-
-# > 1. When the user selects "X", the computer ("O") plays two moves for every one move the user makes:
-
-# I fixed this and instead of 'player', the code displays 'X' at the end of the code where the major bug was.
-
-import random
+```import random
 
 def askForLetterr() -> list:
     """
@@ -279,5 +273,4 @@ while True:
     print('Would you like to play again? (yes or no)') 
     if not input().lower().startswith('y'):
         break
-        '''
-        
+        ```
