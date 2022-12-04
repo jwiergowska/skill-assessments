@@ -1,4 +1,4 @@
-```# This is very good overall. There is one major bug to fix:
+# This is very good overall. There is one major bug to fix:
 
 # > 1. When the user selects "X", the computer ("O") plays two moves for every one move the user makes:
 
@@ -279,4 +279,4 @@ while True:
     print('Would you like to play again? (yes or no)') 
     if not input().lower().startswith('y'):
         break
-        ```
+        
