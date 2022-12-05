@@ -278,9 +278,10 @@ while True:
     if not input().lower().startswith('y'):
         break
 
-        # the code is inspired by 
+        # the references and sources I used for this code:  
         # https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874, 
         # https://inventwithpython.com/invent4thed/chapter10.html,
         # https://github.com/kying18/tic-tac-toe
         # https://github.com/watsojar/tictactoe
+        # https://www.askpython.com/python/examples/tic-tac-toe-using-python
         
