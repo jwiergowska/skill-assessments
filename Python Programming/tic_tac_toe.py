@@ -277,3 +277,8 @@ while True:
     print('Would you like to play again? (yes or no)') 
     if not input().lower().startswith('y'):
         break
+
+        # the code is inspired by 
+        # https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874, 
+        # https://inventwithpython.com/invent4thed/chapter10.html,
+        # https://github.com/kying18/tic-tac-toe
